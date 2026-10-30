@@ -1,0 +1,5 @@
+# Core data pipeline dependencies
+pandas>=2.2.0
+SQLAlchemy>=2.0.0
+pytest>=8.0.0
+
