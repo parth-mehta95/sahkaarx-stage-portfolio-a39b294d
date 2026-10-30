@@ -1,6 +1,0 @@
-# Core dependencies for data pipeline project
-# packages: pandas, sqlalchemy, pytest
-pandas==2.2.2
-SQLAlchemy==2.0.35
-pytest==8.3.3
-
